@@ -1,44 +1,50 @@
 [
 	[
 		{
-			"speaker" : "First Witch",
+			"speaker" : "First_Witch",
 			"dialog" : "When shall we three meet again In thunder, lightning, or in rain?",
 			"newSpeaker" : "true"
 		},
 		{
-			"speaker" : "Second Witch",
+			"speaker" : "Second_Witch",
 			"dialog" : "When the hurlyburly's done, When the battle's lost and won.",
 			"newSpeaker" : "true"
 		},
 		{
-			"speaker" : "Third Witch",
+			"speaker" : "Third_Witch",
 			"dialog" : "That will be ere the set of sun.",
             "newSpeaker" : "true"
 			
 		},
 		{	
-			"speaker" : "First Witch",
-			"dialog" : "Where the place?"
+			"speaker" : "First_Witch",
+			"dialog" : "Where the place?",
+			"newSpeaker" : "true"
 		},
 		{	
-			"speaker" : "Second Witch",
-			"dialog" : "Upon the heath"
+			"speaker" : "Second_Witch",
+			"dialog" : "Upon the heath",
+			"newSpeaker" : "true"
 		},
 		{	
-			"speaker" : "Third Witch",
-			"dialog" : "There to meet with Macbeth"
+			"speaker" : "Third_Witch",
+			"dialog" : "There to meet with Macbeth",
+			"newSpeaker" : "true"
 		},
 		{	
-			"speaker" : "First Witch",
-			"dialog" : "I come, Graymalkin!"
+			"speaker" : "First_Witch",
+			"dialog" : "I come, Graymalkin!",
+			"newSpeaker" : "true"
 		},
 		{	
-			"speaker" : "Second Witch",
-			"dialog" : "Paddock calls."
+			"speaker" : "Second_Witch",
+			"dialog" : "Paddock calls.",
+			"newSpeaker" : "true"
 		},
 		{	
-			"speaker" : "Third Witch",
-			"dialog" : "Anon."
+			"speaker" : "Third_Witch",
+			"dialog" : "Anon.",
+			"newSpeaker" : "true"
 		},
 		{	
 			"speaker" : "All",
